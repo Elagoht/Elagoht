@@ -1,9 +1,13 @@
 # Hi! I am Furkan Baytekin
 
-I am currently studying on Gazi University Department of Turkish Education. I am courius at programming and coding. I improved myself on pytohn, qt, javascrip, html and css.
+I am currently studying at education department and I want to merge my coding skills with education. My aim is to creating digital and modern education materials and educate people about technology.
 
-I love developing desktop applications and visualizing data.
+I am an open-source advocate. I publish my programs under GNU GPLv3. I use Linux as my primary operating system and I recommend everyone to use it.
 
-I am an open-source advocater. I prefer publishing my programs as FOSS. I use Linux as my primary operating system.
+Here is some stats about me!
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Elagoht&count_private=true&show_icons=true)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagoht&langs_count=10&layout=compact)
 
 If you want to get more information about me, you can visit [my portfolio site](https://elagoht.github.io) I designed!
