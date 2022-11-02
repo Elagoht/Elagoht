@@ -2,10 +2,9 @@
 
 # Hi! I am Furkan Baytekin
 
-I am currently studying at education department and I want to merge my coding skills with education. My aim is to creating digital and modern education materials and educate people about technology.
+I study at education department and I want to integrate my coding skills to education. My aim is to create digital and modern education materials. The reason why is education in schools still looks same as 100 years ago. We just added smartborads. But this cannot be helpful to make students smart. So I believe we, who are programmers, should lend a helping hand to this situation. 
 
-I am an open-source advocate. I publish my programs under GNU GPLv3. I use Linux as my primary operating system and I recommend everyone to use it.
-
+I am also an open source advocate. I use Linux as my main operating system. I publish educational videos about Linux and open source projects on my Youtube Channel named [Linux For Everyone](https://www.youtube.com/channel/UCIWYzLPBy2Av4sgUsRClP0g).
 
   **Find Me On Other Platforms**
 
@@ -22,9 +21,8 @@ I am an open-source advocate. I publish my programs under GNU GPLv3. I use Linux
 `^^^`<br>
 `Watch Me Here` 
 
-Also I publish educational videos on my Youtube Channel named [Linux For Everyone](https://www.youtube.com/channel/UCIWYzLPBy2Av4sgUsRClP0g).
 
-  <hr>
+  ---
   
   **Languages I Know And Use**
   
@@ -43,14 +41,15 @@ Also I publish educational videos on my Youtube Channel named [Linux For Everyon
   
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
   ![Endeavour OS](https://img.shields.io/badge/Endeavour_OS-7721DA?logo=linux&logoColor=white)
-  ![Fedora](https://img.shields.io/badge/Fedora-253B67?logo=fedora&logoColor=white)
-  ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white)
   <br>
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/Fedora-253B67?logo=fedora&logoColor=white)
   ![OpenSuse](https://img.shields.io/badge/OpenSuse-73BA25?logo=opensuse&logoColor=white)
   ![Alpine](https://img.shields.io/badge/Alpine-0D597F?logo=alpinelinux&logoColor=white)
-  
+  <br>
+  ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+
   **Package Programs I Use**
   
   ![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
@@ -72,7 +71,7 @@ Also I publish educational videos on my Youtube Channel named [Linux For Everyon
 
   ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Elagoht&count_private=true&show_icons=true)
   
-<hr>
+  ---
 
 If you want to get more information about me, you can visit [my portfolio site](https://elagoht.github.io) I designed!
 
