@@ -2,7 +2,7 @@
 
 # Hi! I am Furkan Baytekin
 
-I study at education department and I want to integrate my coding skills to education. My aim is to create digital and modern education materials. The reason why is education in schools still looks same as 100 years ago. We just added smartborads. But this cannot be helpful to make students smart. So I believe we, who are programmers, should lend a helping hand to this situation. 
+I study at education department and I want to integrate my coding skills to education. My aim is to create digital and modern education materials. The reason why is education in schools still looks same as 100 years ago. We just added smartboards. But this cannot be helpful to make students smart. So I believe we, who are programmers, should lend a helping hand to this situation. 
 
 I am also an open source advocate. I use Linux as my main operating system. I publish educational videos about Linux and open source projects on my Youtube Channel named [Linux For Everyone](https://www.youtube.com/channel/UCIWYzLPBy2Av4sgUsRClP0g).
 
