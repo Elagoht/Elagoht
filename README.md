@@ -8,14 +8,15 @@ I am also an open source advocate. I use Linux as my main operating system. I pu
 
   **Find Me On Other Platforms**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-baytekin/)
   [![AUR](https://img.shields.io/badge/AUR-1793D1?logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages?O=0&SeB=m&K=Elagoht&outdated=&SB=p&SO=d&PP=50&submit=Go)
+  [![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&logoColor=white)](https://pypi.org/user/Elagoht/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/furkanbaytekin)
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/elagoht)
-  <br>
-  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Elagoht)
   [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://elagoht.itch.io/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:furkanbaytekin@gmail.com)
+  <br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-baytekin/) 
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/elagoht)
+  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:furkanbaytekin@gmail.com) 
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Elagoht)
   <br>
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIWYzLPBy2Av4sgUsRClP0g)<br>
 `^^^`<br>
