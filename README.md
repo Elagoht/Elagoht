@@ -32,6 +32,7 @@ I am also an open source advocate. I use Linux as my main operating system. I pu
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=csswizardry&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-c5b218?logo=javascript&logoColor=white)
   <br>
+  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
   ![Awk](https://img.shields.io/badge/Awk-666666?logo=textpattern&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-3FCE51?logo=qt&logoColor=white)
@@ -72,6 +73,9 @@ I am also an open source advocate. I use Linux as my main operating system. I pu
 
   ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Elagoht&count_private=true&show_icons=true)
   
+  **Proflie Trophies**
+  
+  ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=elagoht&column=3&row=2&margin-w=15&margin-h=15&no-frame=true)
   ---
 
 If you want to get more information about me, you can visit [my portfolio site](https://elagoht.github.io) I designed!
