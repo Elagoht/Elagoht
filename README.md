@@ -95,9 +95,11 @@
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Elagoht&count_private=true&show_icons=true)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=elagoht)
+
 ## 🏆 Profile Trophies
 
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=elagoht&column=3&row=2&margin-w=15&margin-h=15&no-frame=true)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=elagoht&margin-w=15&margin-h=15&no-frame=true)
 
 ## 🔗 For More
 
