@@ -89,6 +89,11 @@
 ![Libre Office](https://img.shields.io/badge/Libre_Office-18A303?logo=libreoffice&logoColor=white&style=for-the-badge)
 ![Only Office](https://img.shields.io/badge/Only_Office-444444?logo=onlyoffice&logoColor=white&style=for-the-badge)
 
+## My Last Youtube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ## 📊 Some Stats About Me
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagoht&langs_count=10&layout=compact)
