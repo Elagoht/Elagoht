@@ -89,7 +89,7 @@
 ![Libre Office](https://img.shields.io/badge/Libre_Office-18A303?logo=libreoffice&logoColor=white&style=for-the-badge)
 ![Only Office](https://img.shields.io/badge/Only_Office-444444?logo=onlyoffice&logoColor=white&style=for-the-badge)
 
-## My Last Youtube Videos
+## 🎥 My Last Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Ln (Bağlantı Oluştur) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=-VHZqmiHssM&title=Ln+%28Ba%C4%9Flant%C4%B1+Olu%C5%9Ftur%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1686408512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Ln (Bağlantı Oluştur) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=-VHZqmiHssM)
