@@ -92,12 +92,12 @@
 ## 🎥 My Last Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Head (Dosyanın Başını Oku) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=xl6kbDPrOUw&title=Head+%28Dosyan%C4%B1n+Ba%C5%9F%C4%B1n%C4%B1+Oku%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1687436103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Head (Dosyanın Başını Oku) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=xl6kbDPrOUw)
 [![Grep (Metinde Ara) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=Q7eVuKKCLbY&title=Grep+%28Metinde+Ara%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1686673432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Grep (Metinde Ara) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=Q7eVuKKCLbY)
 [![Ln (Bağlantı Oluştur) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=-VHZqmiHssM&title=Ln+%28Ba%C4%9Flant%C4%B1+Olu%C5%9Ftur%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1686408512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Ln (Bağlantı Oluştur) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=-VHZqmiHssM)
 [![Touch (Zaman Damgası Değiştir) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=_LFcLXEDlOU&title=Touch+%28Zaman+Damgas%C4%B1+De%C4%9Fi%C5%9Ftir%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1684596774&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Touch (Zaman Damgası Değiştir) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=_LFcLXEDlOU)
 [![SHRED (Doğra) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=Gzef3e_UIc8&title=SHRED+%28Do%C4%9Fra%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1683972010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "SHRED (Doğra) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=Gzef3e_UIc8)
 [![RM - Remove (Sil) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=M4iRPmv-Efg&title=RM+-+Remove+%28Sil%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1683889223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "RM - Remove (Sil) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=M4iRPmv-Efg)
-[![RMDIR - Remove Directory (Dizin Sil) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=LW1VTjJpbgM&title=RMDIR+-+Remove+Directory+%28Dizin+Sil%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1683460813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "RMDIR - Remove Directory (Dizin Sil) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=LW1VTjJpbgM)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 Some Stats About Me
