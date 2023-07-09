@@ -12,7 +12,6 @@
 **on** <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 **using** <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /> <img height="32" width="32" src="https://cdn.simpleicons.org/neovim" />.
 
-</div>
 
 🆓 I am an open source advocate.<br/>
 👨‍💻 I develop [software](https://github.com/Elagoht?tab=repositories).<br/>
@@ -23,8 +22,6 @@
 👨‍🎤 I compose musics.<br/>
 🎸 I play bass.<br/>
 👨‍🏫 I am a teacher.<br/>
-
-<div align="center">
 
 👉 **Me On Other Platforms**
 
