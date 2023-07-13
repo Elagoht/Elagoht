@@ -33,7 +33,7 @@
 
 💌 **Contacts**
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />](mailto:furkanbaytekin@gmail.com)  [<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />](https://www.linkedin.com/in/furkan-baytekin/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />](https://t.me/Elagoht)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />](mailto:furkanbaytekin@gmail.com)  [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/furkan-baytekin/)  [<img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />](https://t.me/Elagoht)
 
 ▶️ Latest Youtube Videos
 
