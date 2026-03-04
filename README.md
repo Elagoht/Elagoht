@@ -28,13 +28,9 @@ I share Linux tutorials and more on my [YouTube channel](https://www.youtube.com
 
 ## 🏆 GitHub Stats
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagoht&langs_count=10&layout=compact)
+![Elagoht's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Elagoht&type=languages&theme=dark&chart=bars)
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Elagoht&count_private=true&show_icons=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=elagoht)
-
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=elagoht&margin-w=15&margin-h=15&no-frame=true)
+![Elagoht's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Elagoht&theme=dark&chart=bars)
 
 ## 🌐 Find Me Online
 
