@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer, Linux enthusiast, and 
 
 ## 📺 YouTube Channel
 
-I share Linux tutorials and more on my [YouTube channel](https://www.youtube.com/@herkesicinlinux).
+I share Linux tutorials and more on my [YouTube channel](https://www.youtube.com/@furkanbytekin).
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Content-Type Nasıl Çalışıyor? Tarayıcı İçeriğin Türünü Nereden Biliyor?](https://ytcards.demolab.com/?id=XRGEz91hE_s&title=Content-Type+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1yor%3F+Taray%C4%B1c%C4%B1+%C4%B0%C3%A7eri%C4%9Fin+T%C3%BCr%C3%BCn%C3%BC+Nereden+Biliyor%3F&lang=en&timestamp=1769702296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Content-Type Nasıl Çalışıyor? Tarayıcı İçeriğin Türünü Nereden Biliyor?")](https://www.youtube.com/watch?v=XRGEz91hE_s)
