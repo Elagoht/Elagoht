@@ -18,12 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer, Linux enthusiast, and 
 I share Linux tutorials and more on my [YouTube channel](https://www.youtube.com/@furkanbytekin).
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Content-Type Nasıl Çalışıyor? Tarayıcı İçeriğin Türünü Nereden Biliyor?](https://ytcards.demolab.com/?id=XRGEz91hE_s&title=Content-Type+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1yor%3F+Taray%C4%B1c%C4%B1+%C4%B0%C3%A7eri%C4%9Fin+T%C3%BCr%C3%BCn%C3%BC+Nereden+Biliyor%3F&lang=en&timestamp=1769702296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Content-Type Nasıl Çalışıyor? Tarayıcı İçeriğin Türünü Nereden Biliyor?")](https://www.youtube.com/watch?v=XRGEz91hE_s)
-[![The Forking Path - Teaser](https://ytcards.demolab.com/?id=OF0K_YDkrHw&title=The+Forking+Path+-+Teaser&lang=en&timestamp=1758462018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Forking Path - Teaser")](https://www.youtube.com/watch?v=OF0K_YDkrHw)
-[![TetraBros: 🎮 Battle in the Tetris Storm! 🧙‍♂️](https://ytcards.demolab.com/?id=E5Sln-qXYKc&title=TetraBros%3A+%F0%9F%8E%AE+Battle+in+the+Tetris+Storm%21+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F&lang=en&timestamp=1745764983&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "TetraBros: 🎮 Battle in the Tetris Storm! 🧙‍♂️")](https://www.youtube.com/watch?v=E5Sln-qXYKc)
-[![Head (Dosyanın Başını Oku) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=xl6kbDPrOUw&title=Head+%28Dosyan%C4%B1n+Ba%C5%9F%C4%B1n%C4%B1+Oku%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1687436103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Head (Dosyanın Başını Oku) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=xl6kbDPrOUw)
-[![Grep (Metinde Ara) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=Q7eVuKKCLbY&title=Grep+%28Metinde+Ara%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1686673432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Grep (Metinde Ara) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=Q7eVuKKCLbY)
-[![Ln (Bağlantı Oluştur) | Linux Terminal Kursu](https://ytcards.demolab.com/?id=-VHZqmiHssM&title=Ln+%28Ba%C4%9Flant%C4%B1+Olu%C5%9Ftur%29+%7C+Linux+Terminal+Kursu&lang=en&timestamp=1686408512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ln (Bağlantı Oluştur) | Linux Terminal Kursu")](https://www.youtube.com/watch?v=-VHZqmiHssM)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 🏆 GitHub Stats
