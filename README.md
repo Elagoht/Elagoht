@@ -18,12 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer, Linux enthusiast, and 
 I share Linux tutorials and more on my [YouTube channel](https://www.youtube.com/@furkanbytekin).
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Super Pixa Bros from Pixabros Studio](https://ytcards.demolab.com/?id=qPc-3oklEWg&title=Super+Pixa+Bros+from+Pixabros+Studio&lang=en&timestamp=1786277473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Super Pixa Bros from Pixabros Studio")](https://www.youtube.com/watch?v=qPc-3oklEWg)
-[![Dungrid Tactics - Birlikte Oynayalım](https://ytcards.demolab.com/?id=9mjjowHX1-g&title=Dungrid+Tactics+-+Birlikte+Oynayal%C4%B1m&lang=en&timestamp=1785517205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dungrid Tactics - Birlikte Oynayalım")](https://www.youtube.com/watch?v=9mjjowHX1-g)
-[![Dungrid: Tactics - Octopus Boss Gameplay](https://ytcards.demolab.com/?id=VemFcRpPMis&title=Dungrid%3A+Tactics+-+Octopus+Boss+Gameplay&lang=en&timestamp=1784934350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dungrid: Tactics - Octopus Boss Gameplay")](https://www.youtube.com/watch?v=VemFcRpPMis)
-[![Har - Turkic Game Jam 2026 Submission by Pixabros](https://ytcards.demolab.com/?id=awIdItVB6Pg&title=Har+-+Turkic+Game+Jam+2026+Submission+by+Pixabros&lang=en&timestamp=1780844234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Har - Turkic Game Jam 2026 Submission by Pixabros")](https://www.youtube.com/watch?v=awIdItVB6Pg)
-[![Single Thread](https://ytcards.demolab.com/?id=I7t4XanUBBo&title=Single+Thread&lang=en&timestamp=1779021901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Single Thread")](https://www.youtube.com/watch?v=I7t4XanUBBo)
-[![Hack & Dough - Gameplay Teaser](https://ytcards.demolab.com/?id=93nop6QfadU&title=Hack+%26+Dough+-+Gameplay+Teaser&lang=en&timestamp=1775998384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hack & Dough - Gameplay Teaser")](https://www.youtube.com/watch?v=93nop6QfadU)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 🏆 GitHub Stats
