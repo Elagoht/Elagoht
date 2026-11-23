@@ -18,7 +18,12 @@ Welcome to my GitHub profile! I'm a passionate developer, Linux enthusiast, and 
 I share Linux tutorials and more on my [YouTube channel](https://www.youtube.com/@furkanbytekin).
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![DinoHard - Alpha Version Trailer](https://ytcards.demolab.com/?id=I79gv-A5sJc&title=DinoHard+-+Alpha+Version+Trailer&lang=en&timestamp=1795286895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DinoHard - Alpha Version Trailer")](https://www.youtube.com/watch?v=I79gv-A5sJc)
+[![Dino Hard - Public Trailer Draft](https://ytcards.demolab.com/?id=Mhassl2gjbo&title=Dino+Hard+-+Public+Trailer+Draft&lang=en&timestamp=1794211831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dino Hard - Public Trailer Draft")](https://www.youtube.com/watch?v=Mhassl2gjbo)
+[![Super Pixa Bros from Pixabros Studio](https://ytcards.demolab.com/?id=qPc-3oklEWg&title=Super+Pixa+Bros+from+Pixabros+Studio&lang=en&timestamp=1786277473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Super Pixa Bros from Pixabros Studio")](https://www.youtube.com/watch?v=qPc-3oklEWg)
+[![Dungrid Tactics - Birlikte Oynayalım](https://ytcards.demolab.com/?id=9mjjowHX1-g&title=Dungrid+Tactics+-+Birlikte+Oynayal%C4%B1m&lang=en&timestamp=1785517205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dungrid Tactics - Birlikte Oynayalım")](https://www.youtube.com/watch?v=9mjjowHX1-g)
+[![Dungrid: Tactics - Octopus Boss Gameplay](https://ytcards.demolab.com/?id=VemFcRpPMis&title=Dungrid%3A+Tactics+-+Octopus+Boss+Gameplay&lang=en&timestamp=1784934350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dungrid: Tactics - Octopus Boss Gameplay")](https://www.youtube.com/watch?v=VemFcRpPMis)
+[![Har - Turkic Game Jam 2026 Submission by Pixabros](https://ytcards.demolab.com/?id=awIdItVB6Pg&title=Har+-+Turkic+Game+Jam+2026+Submission+by+Pixabros&lang=en&timestamp=1780844234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Har - Turkic Game Jam 2026 Submission by Pixabros")](https://www.youtube.com/watch?v=awIdItVB6Pg)
 <!-- END YOUTUBE-CARDS -->
 
 ## 🏆 GitHub Stats
